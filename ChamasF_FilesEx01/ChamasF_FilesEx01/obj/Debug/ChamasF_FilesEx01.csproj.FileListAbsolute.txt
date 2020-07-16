@@ -1,0 +1,7 @@
+D:\Grade 12\ICS4U1\ChamasF_FilesEx01\ChamasF_FilesEx01\bin\Debug\ChamasF_FilesEx01.exe.config
+D:\Grade 12\ICS4U1\ChamasF_FilesEx01\ChamasF_FilesEx01\bin\Debug\ChamasF_FilesEx01.exe
+D:\Grade 12\ICS4U1\ChamasF_FilesEx01\ChamasF_FilesEx01\bin\Debug\ChamasF_FilesEx01.pdb
+D:\Grade 12\ICS4U1\ChamasF_FilesEx01\ChamasF_FilesEx01\obj\Debug\ChamasF_FilesEx01.csprojAssemblyReference.cache
+D:\Grade 12\ICS4U1\ChamasF_FilesEx01\ChamasF_FilesEx01\obj\Debug\ChamasF_FilesEx01.csproj.CoreCompileInputs.cache
+D:\Grade 12\ICS4U1\ChamasF_FilesEx01\ChamasF_FilesEx01\obj\Debug\ChamasF_FilesEx01.exe
+D:\Grade 12\ICS4U1\ChamasF_FilesEx01\ChamasF_FilesEx01\obj\Debug\ChamasF_FilesEx01.pdb

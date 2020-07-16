@@ -1,0 +1,8 @@
+Teacher's Name: ok
+Gross Amount: 	$123.00
+Income Tax: 	$12.30
+CCP: 		$5.54
+Teacher's PP: 	$6.15
+Union Dues: 	$2.46
+Health Plan: 	$120.00
+Net Pay: 	-$23.45

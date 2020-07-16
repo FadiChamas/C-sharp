@@ -1,0 +1,10 @@
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\bin\Debug\ChamasF_ClassesEx02 RollDice.exe.config
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\bin\Debug\ChamasF_ClassesEx02 RollDice.exe
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\bin\Debug\ChamasF_ClassesEx02 RollDice.pdb
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\obj\Debug\ChamasF_ClassesEx02 RollDice.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\obj\Debug\ChamasF_ClassesEx02_RollDice.frmRollDice.resources
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\obj\Debug\ChamasF_ClassesEx02_RollDice.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\obj\Debug\ChamasF_ClassesEx02 RollDice.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\obj\Debug\ChamasF_ClassesEx02 RollDice.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\obj\Debug\ChamasF_ClassesEx02 RollDice.exe
+E:\Grade 12\ICS4U1\ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice\obj\Debug\ChamasF_ClassesEx02 RollDice.pdb

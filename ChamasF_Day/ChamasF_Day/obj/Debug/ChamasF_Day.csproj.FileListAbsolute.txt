@@ -1,0 +1,10 @@
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\bin\Debug\ChamasF_Day.exe.config
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\bin\Debug\ChamasF_Day.exe
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\bin\Debug\ChamasF_Day.pdb
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\obj\Debug\ChamasF_Day.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\obj\Debug\ChamasF_Day.frmDay.resources
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\obj\Debug\ChamasF_Day.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\obj\Debug\ChamasF_Day.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\obj\Debug\ChamasF_Day.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\obj\Debug\ChamasF_Day.exe
+E:\Grade 12\ICS4U1\ChamasF_Day\ChamasF_Day\obj\Debug\ChamasF_Day.pdb

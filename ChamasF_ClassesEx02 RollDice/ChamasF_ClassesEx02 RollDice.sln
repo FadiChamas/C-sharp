@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChamasF_ClassesEx02 RollDice", "ChamasF_ClassesEx02 RollDice\ChamasF_ClassesEx02 RollDice.csproj", "{143EB34B-89A7-4CC8-A83D-D113FD71C6A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143EB34B-89A7-4CC8-A83D-D113FD71C6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143EB34B-89A7-4CC8-A83D-D113FD71C6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143EB34B-89A7-4CC8-A83D-D113FD71C6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143EB34B-89A7-4CC8-A83D-D113FD71C6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21DC1B26-0013-4551-BE94-0BA6822ABA7B}
+	EndGlobalSection
+EndGlobal

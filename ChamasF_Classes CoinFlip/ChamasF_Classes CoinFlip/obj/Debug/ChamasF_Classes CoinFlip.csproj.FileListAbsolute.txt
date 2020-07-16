@@ -1,0 +1,10 @@
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\bin\Debug\ChamasF_Classes CoinFlip.exe.config
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\bin\Debug\ChamasF_Classes CoinFlip.exe
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\bin\Debug\ChamasF_Classes CoinFlip.pdb
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\obj\Debug\ChamasF_Classes CoinFlip.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\obj\Debug\ChamasF_Classes_CoinFlip.frmCoinFlip.resources
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\obj\Debug\ChamasF_Classes_CoinFlip.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\obj\Debug\ChamasF_Classes CoinFlip.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\obj\Debug\ChamasF_Classes CoinFlip.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\obj\Debug\ChamasF_Classes CoinFlip.exe
+E:\Grade 12\ICS4U1\ChamasF_Classes CoinFlip\ChamasF_Classes CoinFlip\obj\Debug\ChamasF_Classes CoinFlip.pdb
