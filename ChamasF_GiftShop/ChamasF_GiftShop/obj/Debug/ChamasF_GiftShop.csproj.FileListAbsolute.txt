@@ -1,0 +1,7 @@
+D:\Grade 12\ICS4U1\ChamasF_GiftShop\ChamasF_GiftShop\obj\Debug\ChamasF_GiftShop.csprojAssemblyReference.cache
+D:\Grade 12\ICS4U1\ChamasF_GiftShop\ChamasF_GiftShop\obj\Debug\ChamasF_GiftShop.csproj.CoreCompileInputs.cache
+D:\Grade 12\ICS4U1\ChamasF_GiftShop\ChamasF_GiftShop\bin\Debug\ChamasF_GiftShop.exe.config
+D:\Grade 12\ICS4U1\ChamasF_GiftShop\ChamasF_GiftShop\bin\Debug\ChamasF_GiftShop.exe
+D:\Grade 12\ICS4U1\ChamasF_GiftShop\ChamasF_GiftShop\bin\Debug\ChamasF_GiftShop.pdb
+D:\Grade 12\ICS4U1\ChamasF_GiftShop\ChamasF_GiftShop\obj\Debug\ChamasF_GiftShop.exe
+D:\Grade 12\ICS4U1\ChamasF_GiftShop\ChamasF_GiftShop\obj\Debug\ChamasF_GiftShop.pdb

@@ -1,0 +1,10 @@
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\bin\Debug\ChamasF_How Many Vowels.exe.config
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\bin\Debug\ChamasF_How Many Vowels.exe
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\bin\Debug\ChamasF_How Many Vowels.pdb
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\obj\Debug\ChamasF_How Many Vowels.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\obj\Debug\ChamasF_How_Many_Vowels.frmHowManyVowels.resources
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\obj\Debug\ChamasF_How_Many_Vowels.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\obj\Debug\ChamasF_How Many Vowels.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\obj\Debug\ChamasF_How Many Vowels.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\obj\Debug\ChamasF_How Many Vowels.exe
+E:\Grade 12\ICS4U1\ChamasF_How Many Vowels\ChamasF_How Many Vowels\obj\Debug\ChamasF_How Many Vowels.pdb
