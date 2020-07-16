@@ -1,0 +1,6 @@
+E:\Grade 12\ICS4U1\ChamasF_MinOfThree\ChamasF_MinOfThree\bin\Debug\ChamasF_MinOfThree.exe.config
+E:\Grade 12\ICS4U1\ChamasF_MinOfThree\ChamasF_MinOfThree\bin\Debug\ChamasF_MinOfThree.exe
+E:\Grade 12\ICS4U1\ChamasF_MinOfThree\ChamasF_MinOfThree\bin\Debug\ChamasF_MinOfThree.pdb
+E:\Grade 12\ICS4U1\ChamasF_MinOfThree\ChamasF_MinOfThree\obj\Debug\ChamasF_MinOfThree.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_MinOfThree\ChamasF_MinOfThree\obj\Debug\ChamasF_MinOfThree.exe
+E:\Grade 12\ICS4U1\ChamasF_MinOfThree\ChamasF_MinOfThree\obj\Debug\ChamasF_MinOfThree.pdb

@@ -1,0 +1,10 @@
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\bin\Debug\ChamasF_SmallWords.exe.config
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\bin\Debug\ChamasF_SmallWords.exe
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\bin\Debug\ChamasF_SmallWords.pdb
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\obj\Debug\ChamasF_SmallWords.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\obj\Debug\ChamasF_SmallWords.frmSmallWords.resources
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\obj\Debug\ChamasF_SmallWords.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\obj\Debug\ChamasF_SmallWords.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\obj\Debug\ChamasF_SmallWords.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\obj\Debug\ChamasF_SmallWords.exe
+E:\Grade 12\ICS4U1\ChamasF_SmallWords\ChamasF_SmallWords\obj\Debug\ChamasF_SmallWords.pdb

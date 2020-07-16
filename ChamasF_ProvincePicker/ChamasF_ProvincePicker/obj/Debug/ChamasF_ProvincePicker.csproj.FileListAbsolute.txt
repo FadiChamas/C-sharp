@@ -1,0 +1,9 @@
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\bin\Debug\ChamasF_ProvincePicker.exe.config
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\bin\Debug\ChamasF_ProvincePicker.exe
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\bin\Debug\ChamasF_ProvincePicker.pdb
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\obj\Debug\ChamasF_ProvincePicker.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\obj\Debug\ChamasF_ProvincePicker.frmProvincePicker.resources
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\obj\Debug\ChamasF_ProvincePicker.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\obj\Debug\ChamasF_ProvincePicker.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\obj\Debug\ChamasF_ProvincePicker.exe
+E:\Grade 12\ICS4U1\ChamasF_ProvincePicker\ChamasF_ProvincePicker\obj\Debug\ChamasF_ProvincePicker.pdb

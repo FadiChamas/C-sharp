@@ -1,0 +1,7 @@
+D:\Grade 12\ICS4U1\ChamasF_LoopEx05\ChamasF_LoopEx05\bin\Debug\ChamasF_LoopEx05.exe.config
+D:\Grade 12\ICS4U1\ChamasF_LoopEx05\ChamasF_LoopEx05\bin\Debug\ChamasF_LoopEx05.exe
+D:\Grade 12\ICS4U1\ChamasF_LoopEx05\ChamasF_LoopEx05\bin\Debug\ChamasF_LoopEx05.pdb
+D:\Grade 12\ICS4U1\ChamasF_LoopEx05\ChamasF_LoopEx05\obj\Debug\ChamasF_LoopEx05.csprojAssemblyReference.cache
+D:\Grade 12\ICS4U1\ChamasF_LoopEx05\ChamasF_LoopEx05\obj\Debug\ChamasF_LoopEx05.csproj.CoreCompileInputs.cache
+D:\Grade 12\ICS4U1\ChamasF_LoopEx05\ChamasF_LoopEx05\obj\Debug\ChamasF_LoopEx05.exe
+D:\Grade 12\ICS4U1\ChamasF_LoopEx05\ChamasF_LoopEx05\obj\Debug\ChamasF_LoopEx05.pdb

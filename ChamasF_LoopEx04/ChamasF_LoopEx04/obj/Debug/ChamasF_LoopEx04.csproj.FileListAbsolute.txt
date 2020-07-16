@@ -1,0 +1,13 @@
+E:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\bin\Debug\ChamasF_LoopEx04.exe.config
+E:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\bin\Debug\ChamasF_LoopEx04.exe
+E:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\bin\Debug\ChamasF_LoopEx04.pdb
+E:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\obj\Debug\ChamasF_LoopEx04.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\obj\Debug\ChamasF_LoopEx04.exe
+E:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\obj\Debug\ChamasF_LoopEx04.pdb
+D:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\obj\Debug\ChamasF_LoopEx04.csprojAssemblyReference.cache
+D:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\obj\Debug\ChamasF_LoopEx04.csproj.CoreCompileInputs.cache
+D:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\obj\Debug\ChamasF_LoopEx04.exe
+D:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\obj\Debug\ChamasF_LoopEx04.pdb
+D:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\bin\Debug\ChamasF_LoopEx04.exe.config
+D:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\bin\Debug\ChamasF_LoopEx04.exe
+D:\Grade 12\ICS4U1\ChamasF_LoopEx04\ChamasF_LoopEx04\bin\Debug\ChamasF_LoopEx04.pdb
