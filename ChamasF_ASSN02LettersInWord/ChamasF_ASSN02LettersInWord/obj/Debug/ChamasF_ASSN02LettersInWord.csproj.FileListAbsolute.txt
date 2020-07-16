@@ -1,0 +1,10 @@
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\obj\Debug\ChamasF_ASSN02LettersInWord.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\obj\Debug\ChamasF_ASSN02LettersInWord.frmLettersinWord.resources
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\obj\Debug\ChamasF_ASSN02LettersInWord.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\obj\Debug\ChamasF_ASSN02LettersInWord.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\obj\Debug\ChamasF_ASSN02LettersInWord.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\bin\Debug\ChamasF_ASSN02LettersInWord.exe.config
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\bin\Debug\ChamasF_ASSN02LettersInWord.exe
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\bin\Debug\ChamasF_ASSN02LettersInWord.pdb
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\obj\Debug\ChamasF_ASSN02LettersInWord.exe
+E:\Grade 12\ICS4U1\ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord\obj\Debug\ChamasF_ASSN02LettersInWord.pdb

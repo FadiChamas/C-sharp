@@ -1,0 +1,10 @@
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\bin\Debug\ChamasF_ASSN03 TicTacToe.exe.config
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\bin\Debug\ChamasF_ASSN03 TicTacToe.exe
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\bin\Debug\ChamasF_ASSN03 TicTacToe.pdb
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\obj\Debug\ChamasF_ASSN03 TicTacToe.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\obj\Debug\ChamasF_ASSN03_TicTacToe.frmTicTacToe.resources
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\obj\Debug\ChamasF_ASSN03_TicTacToe.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\obj\Debug\ChamasF_ASSN03 TicTacToe.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\obj\Debug\ChamasF_ASSN03 TicTacToe.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\obj\Debug\ChamasF_ASSN03 TicTacToe.exe
+E:\Grade 12\ICS4U1\ChamasF_ASSN03 TicTacToe\ChamasF_ASSN03 TicTacToe\obj\Debug\ChamasF_ASSN03 TicTacToe.pdb

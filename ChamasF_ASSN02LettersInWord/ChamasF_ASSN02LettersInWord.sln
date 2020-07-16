@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChamasF_ASSN02LettersInWord", "ChamasF_ASSN02LettersInWord\ChamasF_ASSN02LettersInWord.csproj", "{81BEB15A-969E-4F31-B06C-5A586C39F6C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81BEB15A-969E-4F31-B06C-5A586C39F6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BEB15A-969E-4F31-B06C-5A586C39F6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BEB15A-969E-4F31-B06C-5A586C39F6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BEB15A-969E-4F31-B06C-5A586C39F6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574D6B6C-F922-4EF3-B054-57895AD1F321}
+	EndGlobalSection
+EndGlobal

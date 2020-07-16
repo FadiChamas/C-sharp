@@ -1,0 +1,7 @@
+E:\Grade 12\ICS4U1\ChamasF_ClassEnrollment\ChamasF_ClassEnrollment\bin\Debug\ChamasF_ClassEnrollment.exe.config
+E:\Grade 12\ICS4U1\ChamasF_ClassEnrollment\ChamasF_ClassEnrollment\bin\Debug\ChamasF_ClassEnrollment.exe
+E:\Grade 12\ICS4U1\ChamasF_ClassEnrollment\ChamasF_ClassEnrollment\bin\Debug\ChamasF_ClassEnrollment.pdb
+E:\Grade 12\ICS4U1\ChamasF_ClassEnrollment\ChamasF_ClassEnrollment\obj\Debug\ChamasF_ClassEnrollment.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_ClassEnrollment\ChamasF_ClassEnrollment\obj\Debug\ChamasF_ClassEnrollment.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_ClassEnrollment\ChamasF_ClassEnrollment\obj\Debug\ChamasF_ClassEnrollment.exe
+E:\Grade 12\ICS4U1\ChamasF_ClassEnrollment\ChamasF_ClassEnrollment\obj\Debug\ChamasF_ClassEnrollment.pdb
