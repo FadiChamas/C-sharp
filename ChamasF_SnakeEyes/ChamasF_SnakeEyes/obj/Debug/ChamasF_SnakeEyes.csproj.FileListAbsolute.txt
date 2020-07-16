@@ -1,0 +1,10 @@
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\bin\Debug\ChamasF_SnakeEyes.exe.config
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\bin\Debug\ChamasF_SnakeEyes.exe
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\bin\Debug\ChamasF_SnakeEyes.pdb
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\obj\Debug\ChamasF_SnakeEyes.csprojAssemblyReference.cache
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\obj\Debug\ChamasF_SnakeEyes.frmSnakeEyes.resources
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\obj\Debug\ChamasF_SnakeEyes.Properties.Resources.resources
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\obj\Debug\ChamasF_SnakeEyes.csproj.GenerateResource.cache
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\obj\Debug\ChamasF_SnakeEyes.csproj.CoreCompileInputs.cache
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\obj\Debug\ChamasF_SnakeEyes.exe
+E:\Grade 12\ICS4U1\ChamasF_SnakeEyes\ChamasF_SnakeEyes\obj\Debug\ChamasF_SnakeEyes.pdb
